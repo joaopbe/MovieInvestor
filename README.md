@@ -1,5 +1,5 @@
-# Movie Production:Who to hire ?
-*[João Pedro Eira]*
+# Movie Production: Who to hire ?
+*João Pedro Eira*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,6 +16,8 @@ To achieve this he wants to know:
   - Who should be direct the movie?
   - Who should star in the movie?
   - What are the differences by market (US / Non US)
+
+Statistical Processing of the Data is used, together with Hypothesis Testing.
 
 <a name="dataset"></a>
 
