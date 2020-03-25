@@ -1,50 +1,32 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
-# Title of My Project
-*[Your Name]*
-
-*[Your Cohort, Campus & Date]*
+# Movie Production:Who to hire ?
+*[João Pedro Eira]*
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
-
-<a name="hypotheses-/-questions"></a>
-
-## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+Project intended to serve an investor that wishes to enter the movie bussiness, but has no experience in the area.
+The goal is to finance and produce a movie, increasing ROI (return on investment) and minimizing the risk of losses.
+To achieve this he wants to know:
+  - Which movie genre should  he choose?
+  - Who should be direct the movie?
+  - Who should star in the movie?
+  - What are the differences by market (US / Non US)
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+Datasets were taken from [IMDB](https://datasets.imdbws.com), [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv) and [Dataworld](https://data.world/eliasdabbas/boxofficemojo-alltime-domestic-data)
 
-[Dataset]() 
+[Dataset]()
 
-<a name="workflow"></a>
-
-## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
-
-<a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Include the links to your repository, slides and trello. Feel free to include any other links associated to your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/joaopbe/MovieInvestor)  
+[Slides](https://github.com/joaopbe/MovieInvestor/blob/master/Presentation/Movie_Investor.pptx)  
